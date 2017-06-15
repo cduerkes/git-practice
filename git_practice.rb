@@ -2,4 +2,4 @@ puts "Blah blah blah."
 
 puts "Something new..."
 
-puts "...and pizza is awesome."
+puts "...and snakes are awesome."
