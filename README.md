@@ -1,1 +1,1 @@
-This is a readme file.
+The dog is red.
