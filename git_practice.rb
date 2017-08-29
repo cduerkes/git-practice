@@ -1,3 +1,1 @@
-puts "Blah blah blah."
-
-puts "Something new..."
+puts "on the master branch."
